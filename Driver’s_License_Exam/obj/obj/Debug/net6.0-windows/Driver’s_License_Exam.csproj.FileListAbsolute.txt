@@ -1,0 +1,16 @@
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\bin\Debug\net6.0-windows\Driver’s_License_Exam.exe
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\bin\Debug\net6.0-windows\Driver’s_License_Exam.deps.json
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\bin\Debug\net6.0-windows\Driver’s_License_Exam.runtimeconfig.json
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\bin\Debug\net6.0-windows\Driver’s_License_Exam.dll
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\bin\Debug\net6.0-windows\Driver’s_License_Exam.pdb
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver_s_License_Exam.Form1.resources
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.csproj.GenerateResource.cache
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.AssemblyInfoInputs.cache
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.AssemblyInfo.cs
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.csproj.CoreCompileInputs.cache
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.dll
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\refint\Driver’s_License_Exam.dll
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.pdb
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\Driver’s_License_Exam.genruntimeconfig.cache
+C:\Users\arcst\source\repos\Driver’s_License_Exam\Driver’s_License_Exam\obj\Debug\net6.0-windows\ref\Driver’s_License_Exam.dll
